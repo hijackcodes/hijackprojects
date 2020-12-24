@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal website.
 
-You can use the [editor on GitHub](https://github.com/hijackcodes/hijackprojects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I will mainly use this for my socials and stuff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Well. Heres my socials.
 
-### Markdown
+[DDL Discord](https://discord.gg/rF6DxrhgQ8)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[My Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-```markdown
-Syntax highlighted code block
+[My Twitter](https://twitter.com/1337Ava)
 
-# Header 1
-## Header 2
-### Header 3
+------------------------------
 
-- Bulleted
-- List
+Well, Thats it! Cya!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hijackcodes/hijackprojects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+------------------------------
